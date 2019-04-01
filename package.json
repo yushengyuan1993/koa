@@ -1,5 +1,5 @@
 {
-  "name": "koa",
+  "name": "koa-startup",
   "version": "0.0.1",
   "description": "a koa.js demo",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yushengyuan1993/Koa.git"
+    "url": "git+https://github.com/yushengyuan1993/koa-startup.git"
   },
   "keywords": [
     "koa"
@@ -16,7 +16,10 @@
   "author": "https://blog.yvshare.cn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yushengyuan1993/Koa/issues"
+    "url": "https://github.com/yushengyuan1993/koa-startup/issues"
   },
-  "homepage": "https://github.com/yushengyuan1993/Koa#readme"
+  "homepage": "https://github.com/yushengyuan1993/koa-startup#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
 }
