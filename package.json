@@ -1,0 +1,22 @@
+{
+  "name": "koa",
+  "version": "0.0.1",
+  "description": "a koa.js demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yushengyuan1993/Koa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "https://blog.yvshare.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yushengyuan1993/Koa/issues"
+  },
+  "homepage": "https://github.com/yushengyuan1993/Koa#readme"
+}
